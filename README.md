@@ -1,3 +1,8 @@
+
+# App-YardSale-Store
+Este proyecto se inicio como el MyStoreRouter, en el curso de Angular de Platzi. 
+ Se dio continuidad partiendo de la ultima version, para concluir el proyecto de forma completa. 
+
 # MyStoreRouter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
