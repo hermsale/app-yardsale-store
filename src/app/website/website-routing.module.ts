@@ -47,7 +47,7 @@ const routes: Routes = [
         component: MycartComponent,
       },
       {
-        path: 'rogin',
+        path: 'login',
         component: LoginComponent,
       },
       {

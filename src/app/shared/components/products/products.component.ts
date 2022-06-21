@@ -62,7 +62,7 @@ export class ProductsComponent implements OnInit {
   // ahora el onShowDetail se activara por medio del params
   onShowDetail(id: string) {
     this.statusDetail = 'loading';
-    // this.toggleProductDetail();
+    
     if(!this.showProductDetail){ // si esta cerrado, lo abrimos
       this.showProductDetail = true; // showProductDetail activa una clase [class.active]="showProductDetail" en el html
     }
